@@ -10,7 +10,7 @@
 - 🏗️ I enjoy designing scalable and maintainable backend systems
 - 🧠 Interested in **Clean Architecture, DDD, and Distributed Systems**
 - 💬 Ask me about **.NET, C#, SQL Server, Web APIs**
-- 📫 How to reach me: **huseyinkazim@gmail.com**
+- 📫 How to reach me: **huseyinkazim@hotmail.com**
 
 ---
 
@@ -50,13 +50,17 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinkazim&show_icons=true&theme=default)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinkazim&show_icons=true&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinkazim&show_icons=true)
+
 ---
 
 ## 📫 Connect with Me
 
-- 📧 Email: huseyinkazim@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 🧠 Medium: https://medium.com/@your-profile
+[![Email](https://img.shields.io/badge/Email-Hotmail-red)](mailto:huseyinkazim@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/h%C3%BCseyin-kaz%C4%B1m-tosun-7b0b5255/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://medium.com/@huseyinkazm)
 
 ---
 
