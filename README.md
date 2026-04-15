@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋, I'm Hüseyin Kazım Tosun
 
-<!--
-**huseyinkazim/huseyinkazim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior .NET Backend Developer from Turkey
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on **.NET Core, Microservices, and Backend Architectures**
+- 🏗️ I enjoy designing scalable and maintainable backend systems
+- 🧠 Interested in **Clean Architecture, DDD, and Distributed Systems**
+- 💬 Ask me about **.NET, C#, SQL Server, Web APIs**
+- 📫 How to reach me: **huseyinkazim@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+- .NET / .NET Core
+- C#
+- Web API
+- Entity Framework Core
+
+**Database:**
+- SQL Server
+- Redis
+
+**Frontend (basic exposure):**
+- Angular
+
+**Architecture & Tools:**
+- Clean Architecture
+- DDD
+- Docker (basic)
+- Git
+
+---
+
+## 📌 Featured Projects
+
+- 🚀 **Borusan Case Study** – Logistics order management system
+- 🧾 **KasaX** – POS / Cash register system
+- 📚 **KUSYS** – Library management system
+- 🚀 **Mars Rover** – Algorithm / coding challenge implementation
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huseyinkazim&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: huseyinkazim@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🧠 Medium: https://medium.com/@your-profile
+
+---
+
+⭐ Always learning, always improving.
